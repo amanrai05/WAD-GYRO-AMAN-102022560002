@@ -1,0 +1,1 @@
+Take screenshots of pages after running and include them in the PDF. Screenshots must show date and time as required by practicum.
